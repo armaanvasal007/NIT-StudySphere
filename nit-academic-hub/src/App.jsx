@@ -31,10 +31,10 @@ import MSCBranchSubjectsPage from "./pages/MSC/MSCBranchSubjectsPage";
 import MSCSubjectPage from "./pages/MSC/MSCSubjectPage"; // ✅ NEW LINE
 
 // MTech Pages
-import MTech from "./pages/MTech/MTech";
-import BranchSemesterPage from "./pages/MTech/BranchSemesterPage";
-import BranchSemesterSubjects from "./pages/MTECH/BranchSemesterSubjects";
-import MtechSubjectPage from "./pages/MTECH/MtechSubjectPage";
+import MTech from "./pages/MTECH/MTech.jsx";
+import BranchSemesterPage from "./pages/MTECH/BranchSemesterPage.jsx";
+import BranchSemesterSubjects from "./pages/MTECH/BranchSemesterSubjects.jsx";
+import MtechSubjectPage from "./pages/MTECH/MtechSubjectPage.jsx";
 
 // BTech Pages
 import BTech from "./pages/BTECH/BTech";
