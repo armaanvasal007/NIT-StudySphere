@@ -6,6 +6,7 @@ import { GoogleOAuthProvider } from "@react-oauth/google";
 import App from "./App";
 
 
+import "@fortawesome/fontawesome-free/css/all.min.css";
 import "./styles/variables.css";
 import "./styles/main.css";
 
