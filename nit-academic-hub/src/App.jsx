@@ -31,7 +31,7 @@ import MSCBranchSubjectsPage from "./pages/MSC/MSCBranchSubjectsPage";
 import MSCSubjectPage from "./pages/MSC/MSCSubjectPage"; // ✅ NEW LINE
 
 // MTech Pages
-import MTech from "./pages/MTECH/MTech.jsx";
+import MTech from "./pages/MTECH/MTECH.jsx";
 import BranchSemesterPage from "./pages/MTECH/BranchSemesterPage.jsx";
 import BranchSemesterSubjects from "./pages/MTECH/BranchSemesterSubjects.jsx";
 import MtechSubjectPage from "./pages/MTECH/MtechSubjectPage.jsx";
